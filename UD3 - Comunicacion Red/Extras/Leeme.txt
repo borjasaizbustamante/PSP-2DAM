@@ -1,0 +1,7 @@
+
+LEEME
+-----
+
+Un ejemplo genérico que permite comunciar un Cliente y un Servidor mediante sockets. En lugar de enviar y recibir JSONs, 
+lo que se hace es enviar y recibir objetos. El Server es capaz de diferenciar entre objetos enviados. Funciona, mientras 
+el Cliente sepa con antelación qué le va a devolver el Server (a menos claro que lo prepares también para diferenciarlos)
